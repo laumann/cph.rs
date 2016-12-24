@@ -569,6 +569,10 @@ pre {
 .btn-primary:active {
   background-image: none;
 }
+.btn-block {
+    display: block;
+    width: 100%;
+}
 @-webkit-keyframes progress-bar-stripes {
   from {
     background-position: 40px 0;
